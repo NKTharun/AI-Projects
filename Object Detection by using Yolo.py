@@ -1,5 +1,5 @@
 # Install required libraries if not already installed
-!pip install opencv-python-headless numpy
+pip install opencv-python-headless numpy
 
 import cv2
 import numpy as np
